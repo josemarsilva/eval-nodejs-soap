@@ -1,4 +1,3 @@
-
 ## 1. Introduction
 
 Project **eval-nodejs-soap** is an evaluation of library 'soap' on NodeJS.
@@ -62,6 +61,13 @@ C:\..\eval-nodejs-soap> yarn add soap
 
 ## I - References
 
-* https://www.youtube.com/watch?v=FqDenKN5y1s
-* https://classic.yarnpkg.com/en/docs/install/#windows-stable
-* https://apphom.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
+* Guide
+  * https://www.npmjs.com/package/soap
+  * https://stackoverflow.com/questions/8655252/node-js-how-to-consume-soap-xml-web-service
+* Hands on
+  * https://www.youtube.com/watch?v=FqDenKN5y1s
+  * https://classic.yarnpkg.com/en/docs/install/#windows-stable
+  * https://apphom.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
+* Samples
+  * https://github.com/vpulim/node-soap
+  * https://medium.com/better-programming/how-to-perform-soap-requests-with-node-js-4a9627070eb6
